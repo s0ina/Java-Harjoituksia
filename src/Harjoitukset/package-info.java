@@ -1,1 +1,1 @@
-package Harjoitukset;
+package harjoitukset;
