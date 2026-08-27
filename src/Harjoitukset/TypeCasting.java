@@ -11,7 +11,6 @@ public class TypeCasting {
 		double narDouble = 6.45d;
 		int narInt = (int) narDouble;
 		
-		
 		System.out.println(myDouble);
 		System.out.println(myFloat);
 		System.out.println(narInt);
