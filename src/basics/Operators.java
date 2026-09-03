@@ -1,4 +1,4 @@
-package harjoitukset;
+package basics;
 
 public class Operators {
 	//a little practice + w3schools operators code challenge

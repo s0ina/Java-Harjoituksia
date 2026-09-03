@@ -1,4 +1,4 @@
-package harjoitukset;
+package basics;
 import java.util.Scanner;
 
 public class Booleans {

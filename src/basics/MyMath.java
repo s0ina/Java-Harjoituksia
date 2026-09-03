@@ -1,4 +1,4 @@
-package harjoitukset;
+package basics;
 
 public class MyMath {
 	public static void main(String[]args) {

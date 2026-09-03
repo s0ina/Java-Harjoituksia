@@ -1,4 +1,4 @@
-package harjoitukset;
+package basics;
 
 public class Declaring {
 	public static void main(String[]args) {
